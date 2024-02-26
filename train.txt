@@ -1,0 +1,7 @@
+PS C:\Users\kasin\OneDrive\Desktop\Feb9_Project_GL> python train.py
+Y_predicted is:
+ [ 64.229572   233.59794114 315.69045212 ... 114.18264315 171.12997728
+ 280.53890065]
+Regression reports are:
+ [2.67176726e+02 9.23033780e+05 1.95241170e-02]
+PS C:\Users\kasin\OneDrive\Desktop\Feb9_Project_GL>
